@@ -2,3 +2,4 @@
 2
 3 pull edited on github server
 4 push new branch = master
+5 commit 2 kali
